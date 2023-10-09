@@ -36,7 +36,7 @@ global.titulowm2 = `乂 Angel of Death - Bot  乂`
 global.igfg = '★Angel of Death - Bot★';
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
-global.imagen1 = fs.readFileSync('./menu2.jpg');
+global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
 global.imagen3 = fs.readFileSync('./src/#');
 global.imagen4 = fs.readFileSync('./Menu.png');
